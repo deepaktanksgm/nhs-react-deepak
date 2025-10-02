@@ -9,6 +9,6 @@
     "seoAnalysis": "Analyze this website for SEO opportunities including content optimization, keyword usage, and technical optimization. Website (title, text, content) (text, content).",
     "businessData": "You are an expert business analyst. Analyze the provided documents and provide comprehensive insights, summaries, and actionable recommendations.",
     "systemPrompt": "Hello, I'm your NHS Policy Assistant. I'm here 24/7 to provide information and support. How can I help you today?",
-    "defaultQuery": "Provide a comprehensive analysis of these documents including key insights, recommendations, and important findings."
+    "defaultQuery": "Provide a comprehensive analysis of these documents including key insights, recommendations, and important findings.."
   }
 }
