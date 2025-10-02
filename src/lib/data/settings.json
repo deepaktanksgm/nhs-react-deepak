@@ -1,0 +1,14 @@
+{
+  "settingsData": {
+    "promptSettings": "You are an expert web analyst. Answer questions about website content directly and concisely based only on the provided content. If the information is not available on the website, clearly state that.",
+    "linkScraping": "You are an expert web analyst. Answer questions about website content directly and concisely based only on the provided content. If the information is not available on the website, clearly state that.\n\nPredefined Analysis System Prompt\nYou are an expert system and business intelligence specialist. Provide detailed, actionable insights.",
+    "predefinedAnalysis": "You are an expert system and business intelligence specialist. Provide detailed, actionable insights.",
+    "competitorResearch": "Analyze this website as a competitor analyst. Identify their strengths, target market and competitive advantages. Website (title, text, content) (text, content).",
+    "contactExtraction": "Extract contact information including emails, phone numbers, addresses and social media links from this website content. Website (title, text, content) (text, content).",
+    "contentAnalysis": "Provide a comprehensive content analysis of this website including main topics, key messages, content quality, and content improvement. Website (title, text, content) (text, content).",
+    "seoAnalysis": "Analyze this website for SEO opportunities including content optimization, keyword usage, and technical optimization. Website (title, text, content) (text, content).",
+    "businessData": "You are an expert business analyst. Analyze the provided documents and provide comprehensive insights, summaries, and actionable recommendations.",
+    "systemPrompt": "Hello, I'm your NHS Policy Assistant. I'm here 24/7 to provide information and support. How can I help you today?",
+    "defaultQuery": "Provide a comprehensive analysis of these documents including key insights, recommendations, and important findings."
+  }
+}
